@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Self'taught Full'Stack Developer**   ✨With a passion for building practical aplications ✨ 
+**Self taught Full Stack Developer**   ✨With a passion for building practical aplications ✨ 
 
 Here are some ideas to get you started:
 
